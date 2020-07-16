@@ -85,8 +85,11 @@ plot_graph_solution(g, solution) #Plotting the graph with the best solution.
 ```
 
 ## Ouputs
+**Fitness evolution**
 
+**Plot of the best solution**
 
+![output](https://user-images.githubusercontent.com/25170552/87702176-5a78a080-c799-11ea-8c9f-b87454f88ea5.png)
 
 ## References
 
