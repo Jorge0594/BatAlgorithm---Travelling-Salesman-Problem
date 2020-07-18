@@ -18,7 +18,7 @@ Contains all the methods to create and plot the graphs. Uses the library Igraph[
 
 #### Main.py
 
-Contains a simple test to this algorithm.
+Contains a simple test of this algorithm.
 
 ## Usage
 
