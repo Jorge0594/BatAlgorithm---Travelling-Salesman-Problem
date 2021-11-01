@@ -44,7 +44,7 @@ from BatAlgorithm import BatAlgorithm
 
 algorithm = BatAlgorithm(5, 50, 1.0, 5.0, 0.995, 0.995, 0.98, 0.02, g)
 ```
-3. Call the method **execute** of the BatAlgorithm.py to start the execution. Resturns a list of vertex that represents the best path with the minimun cost.
+3. Call the method **execute** of the BatAlgorithm.py to start the execution. Returns a list of vertex that represents the best path with the minimun cost.
 ```python
 
 solution = algorithm.execute()
