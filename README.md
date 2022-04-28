@@ -6,7 +6,7 @@ A simple implementation of BatAlgorithm to solve "The Travelling Salesman Proble
 
 #### Bat.py
 
-Python class that contians all the necessary attributes of the bats.
+Python class that contains all the necessary attributes of the bats.
 
 #### BathAlgorithm.py
 
